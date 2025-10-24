@@ -10,8 +10,9 @@ Ask My Wiki is a Streamlit-powered Retrieval-Augmented Generation (RAG) assistan
 - 🔎 Transparent Retrieval: Users can inspect the exact chunks used to generate each answer.
 
 📽️ Demo
-Watch the full walkthrough here: 
-<iframe src="https://www.loom.com/embed/ae078434a8ce4c399eab9481a91b9fb3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen width="100%" height="400"></iframe>
+Watch the full walkthrough here:  
+👉 [Ask My Wiki Demo on Loom](https://www.loom.com/share/ae078434a8ce4c399eab9481a91b9fb3)
+
 
 🛠️ Tech Stack
 UI: Streamlit
