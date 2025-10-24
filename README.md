@@ -11,7 +11,7 @@ Ask My Wiki is a Streamlit-powered Retrieval-Augmented Generation (RAG) assistan
 
 📽️ Demo
 Watch the full walkthrough here:  
-👉 [Ask My Wiki Demo on Loom](https://www.loom.com/share/ae078434a8ce4c399eab9481a91b9fb3)
+👉 https://www.loom.com/share/ae078434a8ce4c399eab9481a91b9fb3
 
 
 🛠️ Tech Stack
